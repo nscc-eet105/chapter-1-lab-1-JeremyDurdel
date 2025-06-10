@@ -1,0 +1,7 @@
+print ("I went back, as to my relatives.")
+print ("When I arrived, the elms had been shaved.")
+print ("But you were all the same.")
+print ("The buildings, the dry classrooms.")
+print ("I embraced your eyes, your avenues.")
+print ("You were fixed in the same expressions.")
+print ("Jeremy Durdel")
